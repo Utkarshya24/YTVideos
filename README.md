@@ -29,7 +29,7 @@ A modern, responsive web application that displays YouTube videos in a grid layo
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/yourusername/youtube-video-listing.git
+git clone https://github.com/utkarshya24/ytvideos.git
 ```
 
 2. Navigate to the project directory:
@@ -38,10 +38,6 @@ cd YTVideos
 ```
 
 3. Open `index.html` in your web browser or use a local server:
-
-# Using Node.js
-npx live-server
-```
 
 ## Usage
 
@@ -71,7 +67,7 @@ GET https://api.freeapi.app/api/v1/public/youtube/videos
 ## Deployment
 
 The application is deployed at:
-[Live Demo](https://your-deployment-url.com)
+[Live Demo](https://yt-videos.vercel.app/)
 
 ## Contributing
 
@@ -85,5 +81,4 @@ The application is deployed at:
 
 - FreeAPI for providing the YouTube video data
 - YouTube for video content and thumbnails
-
-Project Link: [https://github.com/yourusername/youtube-video-listing](https://github.com/yourusername/youtube-video-listing) 
+ 
